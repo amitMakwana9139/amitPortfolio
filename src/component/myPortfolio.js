@@ -27,14 +27,19 @@ const PortfolioSection = () => {
         },
         {
             id: 5,
-            images: ['megaKit.png', 'megaKitApp.png'],
-            title: 'Megakit website',
+            images: ['vianee1.png', 'vianee2.png', 'vianee3.png'],
+            title: 'vianne jewels',
         },
         {
             id: 6,
             images: ['jobPortal.png', 'jobPortalApp.png'],
             title: 'Online job portal',
-        }
+        },
+        {
+            id: 7,
+            images: ['megaKit.png', 'megaKitApp.png'],
+            title: 'Megakit website',
+        },
     ];
 
     const handleLoadMore = () => {
